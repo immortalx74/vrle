@@ -12,3 +12,5 @@ Use the right stick to move boxes around. Holding grip will scale them instead.
 Use the left stick to move around the world.
 Toggle the plane of moving/scaling with the "a" button (XY or XZ)
 To fine tune placement/scaling of boxes use the corresponding UI buttons
+
+https://www.youtube.com/watch?v=52kwY1ahiUE
